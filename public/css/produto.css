@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Electrolize&display=swap");
+
+.cont-produto{
+  font-family: "Electrolize",sans-serif;
+  font-size: 19px;
+}
+.link-produto {
+  cursor: pointer;               /* mostra o cursor de mãozinha */
+  transition: all 0.3s ease;     /* deixa o efeito suave */
+}
+
+.link-produto:hover {
+  text-decoration: underline;    /* sublinha no hover */
+}
+
